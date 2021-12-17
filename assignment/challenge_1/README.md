@@ -12,7 +12,7 @@ Three tier architecture consists of mainly below three components:
 In this approach, I am using various components for individual layer.
 High level architecture explained in the below image.
 
-![](resources/Three-Tier_Environment.png "Three Tier Environment")
+![](https://github.com/PVikash/Challenges/blob/main/assignment/challenge_1/resources/Three-Tier_Enviornment.png "Three Tier Environment")
 
 ###### Business/Presentation Layer
 For Business Layer, I am using VPC, Subnets, Load Balancer & GKE cluster for frontend application.
